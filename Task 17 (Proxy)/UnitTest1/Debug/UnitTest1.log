@@ -1,18 +1,18 @@
-﻿Сборка начата 28.03.2017 19:45:37.
-     1>Проект "D:\Labs\2 Курс\2 semester\Task 17 (Proxy)\UnitTest1\UnitTest1.vcxproj" в узле 3 (целевые объекты Build).
+﻿Сборка начата 05.04.2017 11:16:15.
+     1>Проект "D:\Labs\2 Курс\Problems\Task 17 (Proxy)\UnitTest1\UnitTest1.vcxproj" в узле 4 (целевые объекты Build).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\include" /I"D:\UTILS\Catch-master\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\UnitTest1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /FC /errorReport:prompt stdafx.cpp
          stdafx.cpp
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\include" /I"D:\UTILS\Catch-master\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\UnitTest1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /FC /errorReport:prompt unittest1.cpp
          unittest1.cpp
-     1>d:\labs\2 курс\2 semester\task 17 (proxy)\task 17 (proxy)\proxy.h(93): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\labs\2 курс\problems\task 17 (proxy)\task 17 (proxy)\proxy.h(93): warning C4018: <: несоответствие типов со знаком и без знака
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Labs\2 Курс\2 semester\Task 17 (Proxy)\Debug\UnitTest1.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Labs\2 Курс\2 semester\Task 17 (Proxy)\Debug\UnitTest1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Labs\2 Курс\2 semester\Task 17 (Proxy)\Debug\UnitTest1.lib" /MACHINE:X86 /DLL Debug\stdafx.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Labs\2 Курс\Problems\Task 17 (Proxy)\Debug\UnitTest1.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Labs\2 Курс\Problems\Task 17 (Proxy)\Debug\UnitTest1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Labs\2 Курс\Problems\Task 17 (Proxy)\Debug\UnitTest1.lib" /MACHINE:X86 /DLL Debug\stdafx.obj
          Debug\unittest1.obj
-            Создается библиотека D:\Labs\2 Курс\2 semester\Task 17 (Proxy)\Debug\UnitTest1.lib и объект D:\Labs\2 Курс\2 semester\Task 17 (Proxy)\Debug\UnitTest1.exp
-         UnitTest1.vcxproj -> D:\Labs\2 Курс\2 semester\Task 17 (Proxy)\Debug\UnitTest1.dll
-     1>Сборка проекта "D:\Labs\2 Курс\2 semester\Task 17 (Proxy)\UnitTest1\UnitTest1.vcxproj" завершена (целевые объекты Build).
+            Создается библиотека D:\Labs\2 Курс\Problems\Task 17 (Proxy)\Debug\UnitTest1.lib и объект D:\Labs\2 Курс\Problems\Task 17 (Proxy)\Debug\UnitTest1.exp
+         UnitTest1.vcxproj -> D:\Labs\2 Курс\Problems\Task 17 (Proxy)\Debug\UnitTest1.dll
+     1>Сборка проекта "D:\Labs\2 Курс\Problems\Task 17 (Proxy)\UnitTest1\UnitTest1.vcxproj" завершена (целевые объекты Build).
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:04.83
+Затраченное время: 00:00:05.03
