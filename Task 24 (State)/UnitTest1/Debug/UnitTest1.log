@@ -1,16 +1,18 @@
-﻿Сборка начата 04.04.2017 23:54:47.
-     1>Проект "D:\Labs\2 Курс\2 semester\Task 24 (State)\UnitTest1\UnitTest1.vcxproj" в узле 2 (целевые объекты Build).
+﻿Сборка начата 05.04.2017 0:43:21.
+     1>Проект "D:\Labs\2 Курс\Problems\Task 24 (State)\UnitTest1\UnitTest1.vcxproj" в узле 3 (целевые объекты Build).
      1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\include" /I"D:\UTILS\Catch-master\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\UnitTest1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /FC /errorReport:prompt stdafx.cpp
+         stdafx.cpp
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\include" /I"D:\UTILS\Catch-master\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\UnitTest1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /FC /errorReport:prompt unittest1.cpp
          unittest1.cpp
-     1>d:\labs\2 курс\2 semester\task 24 (state)\task 24 (state)\state.h(106): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>d:\labs\2 курс\problems\task 24 (state)\task 24 (state)\state.h(106): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Labs\2 Курс\2 semester\Task 24 (State)\Debug\UnitTest1.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Labs\2 Курс\2 semester\Task 24 (State)\Debug\UnitTest1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Labs\2 Курс\2 semester\Task 24 (State)\Debug\UnitTest1.lib" /MACHINE:X86 /DLL Debug\stdafx.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Labs\2 Курс\Problems\Task 24 (State)\Debug\UnitTest1.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Labs\2 Курс\Problems\Task 24 (State)\Debug\UnitTest1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Labs\2 Курс\Problems\Task 24 (State)\Debug\UnitTest1.lib" /MACHINE:X86 /DLL Debug\stdafx.obj
          Debug\unittest1.obj
-            ╤ючфрхЄё  сшсышюЄхър D:\Labs\2 ╩єЁё\2 semester\Task 24 (State)\Debug\UnitTest1.lib ш юс·хъЄ D:\Labs\2 ╩єЁё\2 semester\Task 24 (State)\Debug\UnitTest1.exp
-         UnitTest1.vcxproj -> D:\Labs\2 Курс\2 semester\Task 24 (State)\Debug\UnitTest1.dll
-     1>Сборка проекта "D:\Labs\2 Курс\2 semester\Task 24 (State)\UnitTest1\UnitTest1.vcxproj" завершена (целевые объекты Build).
+            Создается библиотека D:\Labs\2 Курс\Problems\Task 24 (State)\Debug\UnitTest1.lib и объект D:\Labs\2 Курс\Problems\Task 24 (State)\Debug\UnitTest1.exp
+         UnitTest1.vcxproj -> D:\Labs\2 Курс\Problems\Task 24 (State)\Debug\UnitTest1.dll
+     1>Сборка проекта "D:\Labs\2 Курс\Problems\Task 24 (State)\UnitTest1\UnitTest1.vcxproj" завершена (целевые объекты Build).
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:04.02
+Затраченное время: 00:00:09.41
