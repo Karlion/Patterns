@@ -1,5 +1,5 @@
-﻿Сборка начата 05.04.2017 11:14:19.
-     1>Проект "D:\Labs\2 Курс\Problems\Task 16 (Decorator)\UnitTest1\UnitTest1.vcxproj" в узле 4 (целевые объекты Build).
+﻿Сборка начата 11.04.2017 11:33:44.
+     1>Проект "D:\Labs\2 Курс\Problems\Task 16 (Decorator)\UnitTest1\UnitTest1.vcxproj" в узле 3 (целевые объекты Rebuild).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\include" /I"D:\UTILS\Catch-master\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\UnitTest1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /FC /errorReport:prompt stdafx.cpp
          stdafx.cpp
@@ -10,8 +10,8 @@
          Debug\unittest1.obj
             Создается библиотека D:\Labs\2 Курс\Problems\Task 16 (Decorator)\Debug\UnitTest1.lib и объект D:\Labs\2 Курс\Problems\Task 16 (Decorator)\Debug\UnitTest1.exp
          UnitTest1.vcxproj -> D:\Labs\2 Курс\Problems\Task 16 (Decorator)\Debug\UnitTest1.dll
-     1>Сборка проекта "D:\Labs\2 Курс\Problems\Task 16 (Decorator)\UnitTest1\UnitTest1.vcxproj" завершена (целевые объекты Build).
+     1>Сборка проекта "D:\Labs\2 Курс\Problems\Task 16 (Decorator)\UnitTest1\UnitTest1.vcxproj" завершена (целевые объекты Rebuild).
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:07.12
+Затраченное время: 00:00:07.70
